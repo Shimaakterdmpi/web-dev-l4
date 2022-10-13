@@ -1,8 +1,10 @@
 # web-dev-l4
 ## I am a web Developer
-### my skill:c c++,java,javascript
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw0RZz6pP8gaNoR6LMwWLI0M&ust=1665484668155000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDu4_m71foCFQAAAAAdAAAAABAI">  
-~~~HTMl
+### my skill:c c++,java,javascript 
+<img scr="![image](https://user-images.githubusercontent.com/115462627/195501498-c867678d-5f2c-4e62-a361-8bca27ad0686.png)
+"
+         
+ ~~~HTML         
 <!DOCTYPE html>
 <html lang="en">
 <head>
