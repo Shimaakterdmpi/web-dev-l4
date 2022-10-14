@@ -1,8 +1,8 @@
 # web-dev-l4
 ## I am a web Developer
 ### my skill:c c++,java,javascript 
-<img scr="![image](https://user-images.githubusercontent.com/115462627/195501498-c867678d-5f2c-4e62-a361-8bca27ad0686.png)
-"
+<img src="![image](https://user-images.githubusercontent.com/115462627/195501498-c867678d-5f2c-4e62-a361-8bca27ad0686.png)
+">
          
  ~~~HTML         
 <!DOCTYPE html>
